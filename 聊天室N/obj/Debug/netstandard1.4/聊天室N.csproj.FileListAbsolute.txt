@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\bin\Debug\netstandard1.4\聊天室N.deps.json
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\obj\Debug\netstandard1.4\聊天室N.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\obj\Debug\netstandard1.4\聊天室N.AssemblyInfo.cs
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\bin\Debug\netstandard1.4\聊天室N.dll
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\bin\Debug\netstandard1.4\聊天室N.pdb
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\obj\Debug\netstandard1.4\聊天室N.dll
+C:\Users\user\Source\Repos\MyFirstProject\聊天室N\聊天室N\obj\Debug\netstandard1.4\聊天室N.pdb
